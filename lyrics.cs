@@ -7,13 +7,15 @@ using System;
 class Program{
   public static void Main(string[] args)
   {
-    // Unit Test 3 Lyric Line #1
-    Console.WriteLine("Coming out of my cage");
-    // Unit Test 3 Lyric Line #2
-    Console.WriteLine("And I've been doing just fine");
-    // Unit Test 3 Lyric Line #3
-    Console.WriteLine("Gotta gotta be down");
-    // Unit Test 3 Lyric Line #4
-    Console.WriteLine("Because I want it all");
+    // Unit Test 4 Lyric Line #1
+    Console.WriteLine("Now, this is a story all about how");
+    // Unit Test 4 Lyric Line #2
+    Console.WriteLine("My life got flipped-turned upside down");
+    // Unit Test 4 Lyric Line #3
+    Console.WriteLine("And I'd like to take a minute");
+    // Unit Test 4 Lyric Line #4
+    Console.WriteLine("Just sit right there");
+    // Unit Test 4 Lyric Line #5
+    Console.WriteLine("I'll tell you how I became the prince of a town called Bel-Air");
   }
 }
